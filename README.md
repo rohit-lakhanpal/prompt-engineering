@@ -12,6 +12,12 @@ A prompt involves instructions and context passed to a language model to achieve
 
 Prompt Engineering is the practice of developing and optimizing prompts to efficiently use language models for a variety of applications. 
 
+### Tokens
+
+You can think of tokens as pieces of words used for natural language processing. For English text, 1 token is approximately 4 characters or 0.75 words. 
+
+
+
 ## Setup 
 ### Pre-requisites (To be cleaned up)
 1. Install Visual Studio Code
