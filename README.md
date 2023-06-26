@@ -28,3 +28,9 @@ You can think of tokens as pieces of words used for natural language processing.
 
 ### Navigate to Notebook
 Open the notebook [main.ipynb](main.ipynb) in Visual Studio Code.
+
+## References
+1. https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions
+1. https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/prompt-engineering#best-practices
+1. https://learn.microsoft.com/en-us/azure/architecture/guide/ai/conversation-summarization
+1. https://news.microsoft.com/en-gb/2023/03/23/seven-things-to-know-about-responsible-ai/
