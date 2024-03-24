@@ -18,7 +18,7 @@ You can think of tokens as pieces of words used for natural language processing.
 
 ## Recommended Reading
 
-(Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4)[https://arxiv.org/html/2312.16171v2]
+[Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/html/2312.16171v2)
 
 ### Prompting Principles 
 
